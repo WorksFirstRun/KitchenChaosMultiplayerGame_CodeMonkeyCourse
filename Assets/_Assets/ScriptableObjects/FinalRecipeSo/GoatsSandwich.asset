@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18bca2ec7e1bc554ba0825a8bc4a8282, type: 3}
+  m_Name: GoatsSandwich
+  m_EditorClassIdentifier: 
+  finalRecipesList:
+  - {fileID: 11400000, guid: 1e1939a04ec640b479d821d84e1d66b5, type: 2}
+  - {fileID: 11400000, guid: bb8338b35a599e048863fa0fce898b3f, type: 2}
+  - {fileID: 11400000, guid: c8156aeb68867b74e87c360bfadcaf16, type: 2}
+  - {fileID: 11400000, guid: 43fce766182f09f43bf2e9d4e2c24e20, type: 2}
+  recipeName: Goats Sandwich
